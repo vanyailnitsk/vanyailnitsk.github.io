@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Страница — 1" id="9U1M8PizEk-UmJtCfZqd">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xFUZLdhs_T35akEsMAt7-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFUZLdhs_T35akEsMAt7-1" target="xFUZLdhs_T35akEsMAt7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFUZLdhs_T35akEsMAt7-1" target="xFUZLdhs_T35akEsMAt7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFUZLdhs_T35akEsMAt7-1" target="xFUZLdhs_T35akEsMAt7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFUZLdhs_T35akEsMAt7-1" target="xFUZLdhs_T35akEsMAt7-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFUZLdhs_T35akEsMAt7-1" target="xFUZLdhs_T35akEsMAt7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-1" value="Система ресторана" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFUZLdhs_T35akEsMAt7-2" target="xFUZLdhs_T35akEsMAt7-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFUZLdhs_T35akEsMAt7-2" target="xFUZLdhs_T35akEsMAt7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-2" value="Клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-5" value="Заказ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFUZLdhs_T35akEsMAt7-6" target="xFUZLdhs_T35akEsMAt7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFUZLdhs_T35akEsMAt7-6" target="xFUZLdhs_T35akEsMAt7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFUZLdhs_T35akEsMAt7-6" target="xFUZLdhs_T35akEsMAt7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-6" value="Блюдо" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-7" value="Оплата" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-8" value="Система управления" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-9" value="Постоянный клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-10" value="Новый клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-12" value="Основное блюдо" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-13" value="Напиток" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFUZLdhs_T35akEsMAt7-14" value="Десерт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
